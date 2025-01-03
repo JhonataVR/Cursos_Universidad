@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "2d46dd4ccffc0f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "323655c7816883cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac6bf7b6b5fed1b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db680d839583d06a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c1e3837bf88b728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61aef6528e2f7af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c37bad21412d2098",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "10cf25033bacf028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfe085a241ac3fea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a412a7f1368c56b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2bfdd597a71343",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "fb552ca80b2c574f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "ce9b557c35b84c64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "66c160a079ae3bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ac6bf7b6b5fed1b5",
+  "lastOpenFiles": [
+    "README.md",
+    "Estadistica ll/Ponderaciones y Temas.md",
+    "Estadistica ll/Captura de pantalla 2025-01-02 203843.png",
+    "Estadistica ll/Captura de pantalla 2025-01-02 175021.png",
+    "Bienvenido.md",
+    "Pasted image 20250102203846.png",
+    "Pasted image 20250102203830.png",
+    "Imagen de WhatsApp 2025-01-02 a las 18.52.01_35c068c4.jpg",
+    "Imagen de WhatsApp 2025-01-02 a las 18.51.42_e23f5bf2.jpg",
+    "Estadistica ll/Estadistica.Rproj",
+    "Estadistica ll",
+    "Calculo ll"
+  ]
+}
