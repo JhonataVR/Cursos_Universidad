@@ -33,8 +33,7 @@
               "title": "Captura de pantalla 2025-01-02 175021"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadistica ll/img/Captura de pantalla 2025-01-02 175021.png",
+                "file": "Calculo ll/Consideraciones a tomar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Captura de pantalla 2025-01-02 175021"
+              "title": "Enlaces entrantes de Consideraciones a tomar"
             }
           },
           {
@@ -172,8 +171,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c61aef6528e2f7af",
+  "active": "ac6bf7b6b5fed1b5",
   "lastOpenFiles": [
+    "Estadistica ll/img/Captura de pantalla 2025-01-02 175021.png",
     "Calculo ll/img/Pasted image 20250103062455.png",
     "Estadistica ll/img",
     "Calculo ll/Consideraciones a tomar.md",
@@ -190,7 +190,6 @@
     "Calculo ll/img/Pasted image 20250103064117.png",
     "Calculo ll/img/Pasted image 20250103064111.png",
     "Calculo ll/img/Pasted image 20250103064057.png",
-    "Calculo ll/img/Pasted image 20250103063326.png",
     "Estadistica ll/Ponderaciones y Temas.md",
     "Bienvenido.md",
     "Estadistica ll/Estadistica.Rproj",
