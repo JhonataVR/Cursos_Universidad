@@ -4,20 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "323655c7816883cb",
+        "id": "61ba61c35f38e80d",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6bf7b6b5fed1b5",
+            "id": "190a01c9f6747125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Estadistica ll/Ponderaciones y Temas.md",
+=======
+                "file": "OverTheWire/Bandit/bandit1.md",
+>>>>>>> f100e9824de4c38a0011cd3e2607b6bcadc9066c
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Ponderaciones y Temas"
             }
           },
@@ -31,6 +36,9 @@
               },
               "icon": "lucide-image",
               "title": "Captura de pantalla 2025-01-02 175021"
+=======
+              "title": "bandit1"
+>>>>>>> f100e9824de4c38a0011cd3e2607b6bcadc9066c
             }
           }
         ]
@@ -171,17 +179,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac6bf7b6b5fed1b5",
+  "active": "c61aef6528e2f7af",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Calculo ll/Consideraciones a tomar.md",
+=======
+    "OverTheWire/Bandit/bandit0.md",
+    "OverTheWire/Bandit/bandit1.md",
+    "OverTheWire/Bandit",
+    "Pasted image 20250107065125.png",
+    "OverTheWire/Bandit/img/Pasted image 20250107065020.png",
+    "OverTheWire/Bandit/img",
+    "OverTheWire/Bandit/img/Pasted image 20250107062229.png",
+    "OverTheWire/Bandit/img/Pasted image 20250107062126.png",
+    "OverTheWire/Bandit/img/Pasted image 20250107061806.png",
+    "OverTheWire/Bandit/img/Pasted image 20250107061651.png",
+    "OverTheWire/Bandit/img/Pasted image 20250107061302.png",
+    "OverTheWire",
+>>>>>>> f100e9824de4c38a0011cd3e2607b6bcadc9066c
     "Estadistica ll/img/Captura de pantalla 2025-01-02 175021.png",
+    "Calculo ll/Consideraciones a tomar.md",
     "Calculo ll/img/Pasted image 20250103062455.png",
     "Estadistica ll/img",
     "Calculo ll/img",
-    "Sin nombre",
     "README.md",
     "Calculo ll/img/Pasted image 20250103070619.png",
     "Consultas git.md",
+<<<<<<< HEAD
     "Calculo ll/img/Pasted image 20250103070251.png",
     "Calculo ll/img/Pasted image 20250103070131.png",
     "Calculo ll/img/Pasted image 20250103065837.png",
@@ -189,6 +213,8 @@
     "Calculo ll/img/Pasted image 20250103064731.png",
     "Calculo ll/img/Pasted image 20250103064117.png",
     "Calculo ll/img/Pasted image 20250103064111.png",
+=======
+>>>>>>> f100e9824de4c38a0011cd3e2607b6bcadc9066c
     "Estadistica ll/Ponderaciones y Temas.md",
     "Bienvenido.md",
     "Estadistica ll/Estadistica.Rproj",
