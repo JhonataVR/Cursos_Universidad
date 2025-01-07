@@ -1,0 +1,109 @@
+\documentclass[12pt]{article}
+
+% Paquetes necesarios
+\usepackage[utf8]{inputenc}  % Codificación de texto
+\usepackage[spanish]{babel} % Idioma español
+\usepackage{amsmath, amssymb} % Paquetes para matemáticas avanzadas
+\usepackage{listings} % Para mostrar código fuente
+\usepackage{xcolor} % Para colorear código
+\usepackage{graphicx} % Para incluir imágenes
+\usepackage{hyperref} % Hipervínculos
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,
+	urlcolor=cyan,
+}
+
+% Configuración del estilo del código fuente
+\lstset{
+	basicstyle=\ttfamily\small, % Fuente del código
+	keywordstyle=\color{blue}\bfseries,
+	commentstyle=\color{green!60!black},
+	stringstyle=\color{red},
+	numbers=left,
+	numberstyle=\tiny,
+	numbersep=5pt,
+	frame=single,
+	breaklines=true,
+	captionpos=b,
+}
+
+% Título del documento
+\title{Vectores en R3 con Python}
+\author{Jhonatan Vargas Ramos}
+\date{\today}
+
+\begin{document}
+	
+	% Portada
+	\maketitle
+	\begin{center}
+		\textbf{Materia: Cálculo y Programación}\\
+		\textbf{Fecha: \today}
+	\end{center}
+	\newpage
+	
+	% Índice
+	\tableofcontents
+	\newpage
+	
+	% Secciones principales
+	\section{Introducción}
+	Este informe esta dedicado para dar a conocer la fusión entre cálculo y Python. 
+	
+	\section{Cálculo}
+	Para esta ocasión nos basaremos en el tema de vectores en R3	
+	\subsection{Definiciones y conceptos básicos}
+	
+	\begin{itemize}
+		\item Derivadas e integrales
+		\item Límites
+		\item Series y sucesiones
+	\end{itemize}
+	
+	\subsection{Demostraciones}
+	Ejemplo de demostración matemática:
+	\[
+	\lim_{x \to 0} \frac{\sin x}{x} = 1
+	\]
+	
+	\subsection{Gráficos}
+	Puedes incluir gráficos creados con herramientas externas o con TikZ si trabajas con LaTeX. Ejemplo de inclusión de una imagen:
+	\begin{figure}[h!]
+		\centering
+		%\includegraphics[width=0.7\textwidth]{grafico.png}
+		\caption{Ejemplo de gráfico}
+	\end{figure}
+	
+	\section{Código de Programación}
+	En esta sección se presenta el código relacionado con los temas de cálculo, su propósito y los resultados obtenidos.
+	
+	\subsection{Descripción del código}
+	Explicación breve de qué hace el programa y cómo se relaciona con los temas de cálculo.
+	
+	\subsection{Código fuente}
+	Ejemplo de inclusión de código:
+	\begin{lstlisting}[language=Python, caption={Cálculo de derivadas con Python}]
+		import sympy as sp
+		
+		x = sp.Symbol('x')
+		f = sp.sin(x)
+		derivada = sp.diff(f, x)
+		print(derivada)
+	\end{lstlisting}
+	
+	\subsection{Resultados}
+	Incluye capturas de pantalla, gráficos generados por el código o resultados numéricos obtenidos.
+	
+	\section{Conclusión}
+	Resumen de lo aprendido, los desafíos enfrentados y las posibles aplicaciones prácticas de los temas y el código desarrollado.
+	
+	\section{Referencias}
+	Lista de libros, artículos, páginas web o cualquier fuente utilizada para realizar el informe. Ejemplo:
+	\begin{itemize}
+		\item Stewart, J. (2015). \textit{Cálculo: conceptos y contextos}.
+		\item Documentación oficial de Python: \url{https://docs.python.org/3/}
+	\end{itemize}
+	
+\end{document}
