@@ -11,10 +11,14 @@
             "id": "e5822eea84fad565",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Calculo ll/Consideraciones a tomar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Consideraciones a tomar"
             }
           }
         ]
@@ -158,7 +162,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "99032f936f9c4378",
+  "active": "e5822eea84fad565",
   "lastOpenFiles": [
     "Calculo ll/python/binomial.py",
     "Estadistica ll/Valor esperado.md",
