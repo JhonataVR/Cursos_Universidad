@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo ll/Consideraciones a tomar.md",
+                "file": "Estadistica ll/2 Distribuciones Discretas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consideraciones a tomar"
+              "title": "2 Distribuciones Discretas"
+            }
+          },
+          {
+            "id": "f89f1f1035a9ee4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadistica ll/3 Distribuciones continuas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Distribuciones continuas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,22 +177,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e5822eea84fad565",
+  "active": "f89f1f1035a9ee4c",
   "lastOpenFiles": [
+    "Estadistica ll/2 Distribuciones Discretas.md",
+    "Estadistica ll/3 Distribuciones continuas.md",
+    "Estadistica ll/1.3 Varianza y desviación típica de una variable aleatoria.md",
+    "Estadistica ll/img/Pasted image 20250111084609.png",
+    "Estadistica ll/img/Pasted image 20250111085619.png",
+    "Estadistica ll/img/Pasted image 20250111085514.png",
+    "Estadistica ll/img/Pasted image 20250111085344.png",
+    "Estadistica ll/img/Pasted image 20250111085251.png",
+    "Estadistica ll/img/Pasted image 20250111085224.png",
+    "Estadistica ll/img/Pasted image 20250111084747.png",
+    "Estadistica ll/img/Pasted image 20250111084708.png",
+    "Estadistica ll/img/Pasted image 20250111084649.png",
+    "Estadistica ll/1.2 Valor esperado.md",
+    "Estadistica ll/1.1 Probabilidad.md",
+    "Estadistica ll/1 Ponderaciones y Temas.md",
+    "Calculo ll/Consideraciones a tomar.md",
     "Calculo ll/python/binomial.py",
-    "Estadistica ll/Valor esperado.md",
-    "Estadistica ll/Probabilidad.md",
-    "Estadistica ll/Varianza y desviación típica de una variable aleatoria.md",
-    "Estadistica ll/Ponderaciones y Temas.md",
     "Estadistica ll/img/Pasted image 20250107081645.png",
     "Estadistica ll/R/Notas/Manejo de R para estadística ll.md",
-    "Estadistica ll/img/Pasted image 20250107082741.png",
-    "Estadistica ll/img/Pasted image 20250107082312.png",
-    "Estadistica ll/img/Pasted image 20250107082256.png",
-    "Estadistica ll/img/Pasted image 20250107081753.png",
-    "Estadistica ll/img/Pasted image 20250107081725.png",
     "Estadistica ll/R/Notas",
-    "README.md",
-    "OverTheWire/Bandit/img/Pasted image 20250107065125.png"
+    "README.md"
   ]
 }
